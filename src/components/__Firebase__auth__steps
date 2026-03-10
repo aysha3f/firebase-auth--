@@ -1,6 +1,0 @@
-/**
- 1. create a project in firebase console
- 2.npm install firebase
- 3. create firebase.config.js and export firebase configuration (form firebase website)
- 4. 
- */
